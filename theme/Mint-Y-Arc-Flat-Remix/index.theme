@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Mint-Y-Arc-Flat-Remix
+Comment=A dark flat theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Mint-Y-Arc-Flat-Remix
+MetacityTheme=Mint-Y-Arc-Flat-Remix
+IconTheme=Mint-Y-Arc-Flat-Remix
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
